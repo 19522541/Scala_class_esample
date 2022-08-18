@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/geometry_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Shape.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Shape.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quadrilaterals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Quadrilaterals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Triangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Triangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Polygon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Polygon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rectangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Rectangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ellipse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/Ellipse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	numberChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huuvuong/IdeaProjects/Geometry/target/scala-2.13/classes/numberChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
